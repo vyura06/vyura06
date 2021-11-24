@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, я Юра
 Я Junior Frontend Developer из Минска. 
-👨‍🎓 На данный момент учусь в [БГУИРе].(https://www.bsuir.by/)
+👨‍🎓 На данный момент учусь в [БГУИРе](https://www.bsuir.by/)
 
 Люблю браться за новые интересные задачи и решать их. 
 
