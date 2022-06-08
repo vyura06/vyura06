@@ -3,7 +3,7 @@
 - Я Junior Frontend Developer из Минска. 
 - Student of [BSUIR](https://www.bsuir.by/). 👨‍🎓
 - Люблю браться за новые интересные задачи и решать их. 👨‍💻
-- Сейчас изучаю JS, React и Redux. 🖥
+- Сейчас изучаю Nest, Next, Rest, Express, TypeScript. 🖥
 - Питаюсь кодом и кофе ежедневно. ☕
 - Люблю активный отдых. 🌿
 
@@ -16,7 +16,13 @@
 
 **Вёрстка:** HTML, CSS, Bootstrap.
 
-**Frontend разработка:** JavaScript, React, React Router, Redux.
+**Frontend:** JavaScript, React, Redux.
+
+**Backend:** TypeScript, Nest, Next, Express.
+
+**Базы данных:** PostgreSQL, MYSQL, Fire.
+
+**ORM:** Sequelize.
 
 **Инструменты:** Git, VS Code.
 
